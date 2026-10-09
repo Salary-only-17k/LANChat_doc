@@ -24,7 +24,8 @@ LANChat是一款专为高保密需求场景设计的本地化大语言模型部�
 - 唤醒词+身份认证
 - asr+情绪分析+身份认真
 - 文字转语音  
-[演示视频](https://github.com/Salary-only-17k/LANChat_doc/blob/v1.0.2/images/g.mp4)
+[演示视频](https://www.bilibili.com/video/BV1ibpx6ZEGR/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6)  
+视频在images/g.mp4
 ![image](images/b.png)
 ## 优化长短记忆
 - 优化匹配算法
