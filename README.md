@@ -41,8 +41,7 @@ LANChat是一款专为高保密需求场景设计的本地化大语言模型部�
 ## 添加skiill功能
 - 安装下载skill
 - 添加slot机制
+![image](images/f.png)
 # 遗留问题
 - 各个功能单元经过10条数据测试，很稳定。
 - 各个单元没有集成道lanchat中。等下次有时间再去做。
-- 添加slot机制
-![image](images/f.png)
