@@ -1,4 +1,4 @@
-![image](https://github.com/Salary-only-17k/LANChat_doc/blob/main/imgs/image.png)
+![image](images/image.png)
 # 2025-12-07
 # 介绍
 这是LANChat介绍文档仓库，
